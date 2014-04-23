@@ -1,6 +1,6 @@
 gvtJH
 =====
-JazzHubで編集
+JazzHubで編集ıİöçşğüÖÇİŞĞÜ
 
 GitHubで編集。
 ıİöçşğüÖÇİĞÜ
