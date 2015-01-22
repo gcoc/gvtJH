@@ -1,6 +1,6 @@
 ---
 applications:
-- memory: 128MB
+- memory: 64MB
   path: .
   name: HelloNode
   host: HelloNode-${random-word}
