@@ -1,0 +1,9 @@
+---
+applications:
+- memory: 128MB
+  path: .
+  name: HelloNode
+  host: HelloNode-${random-word}
+  command: node app.js
+  instances: 1
+  
