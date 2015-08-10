@@ -15,3 +15,5 @@ Give it a try! Click the button below to fork and deploy your very own copy of t
 Enjoy!
 
 GHで編集。
+
+Web IDEで編集
