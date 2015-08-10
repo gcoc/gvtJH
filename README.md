@@ -13,3 +13,5 @@ Give it a try! Click the button below to fork and deploy your very own copy of t
 [![Deploy to Bluemix](images/deploy-button.png)](https://beta3.hub.jazz.net/code/cfui/bluemix/deploy.html?Repository=https://github.com/gcoc/gvtJH.git)
 
 Enjoy!
+
+GHで編集。
